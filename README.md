@@ -7,6 +7,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
 | [DRY: one rule, one place](dry/) | 10 | [Watch](https://www.youtube.com/watch?v=DB0joiRsJuY) | [Open](https://illbebackend.dev/lessons/dry/typescript/) |
+| [Clean code: extract until it reads](extract-until-it-reads/) | 8 | [Watch](https://www.youtube.com/watch?v=TLZgCf_-uaQ) | [Open](https://illbebackend.dev/lessons/extract-until-it-reads/typescript/) |
 
 ## How to use it
 
